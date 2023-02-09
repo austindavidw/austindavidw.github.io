@@ -1,0 +1,380 @@
+/* whole page style */
+
+.container-fluid {
+  padding: 3% 7%;
+  background-color: #86e5ff;
+  font-family: "montserrat";
+}
+
+/* navigation bar */
+
+.navbar {
+  background-color: #0081c9;
+  border-radius: 50px 50px 50px 50px;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+.navbar-brand {
+  padding: 1%;
+  border-radius: 10px;
+  border-style: none;
+}
+
+.house-image {
+  color: #ffffff7f;
+}
+
+.house-image:hover {
+  color: #ffc93c;
+  transform: scale(1.2);
+  transform-origin: center;
+}
+.nav-item {
+  padding: 0 10px;
+  text-align: center;
+}
+
+.navbar-toggler {
+  border-style: none;
+  border-radius: 50px;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* home page style */
+
+#home-page {
+  background-color: #86e5ff;
+  padding: 10% 1%;
+  margin-top: 20px;
+  border-radius: 50px;
+}
+
+.my-picture {
+  text-align: center;
+  width: 350px;
+  height: 350px;
+}
+
+.picture-holder {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-text {
+  font-family: "Pacifico", cursive;
+  color: white;
+  font-size: 110px;
+  font-weight: 500;
+  line-height: 1.5;
+  padding-left: 15%;
+}
+
+/* about me page section */
+
+#About-me {
+  padding: 1% 7%;
+}
+
+.about-header {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  color: white;
+  font-size: 60px;
+  font-weight: 300;
+  padding: 3%;
+  margin-top: 100px;
+}
+
+.square-containers {
+  border-style: none;
+  margin: 0px 0px;
+  border-radius: 10%;
+  background-color: none;
+}
+
+.first-square {
+  background-color: none;
+  border-radius: 10%;
+  padding: 25px;
+}
+
+.first-square p {
+  color: #f8f0e3;
+  background-color: #5bc0f8;
+  height: 100%;
+  width: 100%;
+  border-radius: 10%;
+  padding: 10px;
+  padding-top: 30px;
+  justify-content: center;
+  font-family: "lato", sans-serif;
+  font-weight: 600;
+  font-size: 1.5vw;
+  text-align: center;
+  line-height: 2;
+}
+
+.second-square {
+  background-color: none;
+  border-radius: 10%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.second-square img {
+  border-style: none;
+  width: 100%;
+  height: 100%;
+  border-radius: 10%;
+}
+
+.third-square {
+  background-color: none;
+  border-radius: 10%;
+  padding: 25px;
+  padding-left: 40px;
+}
+
+.third-square div {
+  color: #f8f0e3;
+  background-color: #5bc0f8;
+  height: 100%;
+  width: 100%;
+  border-radius: 10%;
+  justify-content: center;
+  font-family: "lato", sans-serif;
+  font-weight: 600;
+  font-size: 1.5vw;
+  line-height: 2;
+}
+
+.skills {
+  padding: 0px;
+  border-radius: 10%;
+}
+
+.skills p {
+  padding-top: 20px;
+  border-radius: 10%;
+  font-size: 3vh;
+  text-align: center;
+}
+
+/* projects section */
+
+.projects-header {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  color: white;
+  font-size: 60px;
+  font-weight: 300;
+  padding: 3%;
+  margin-top: 150px;
+}
+
+ul.notes li {
+  margin: 10px 40px 50px 0px;
+  float: left;
+}
+
+ul.notes li,
+ul.tag-list li {
+  list-style: none;
+}
+
+ul.notes li div small {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 10px;
+}
+
+.notes {
+  margin-left: 120px;
+  margin-top: 25px;
+}
+
+div.rotate-1 {
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+}
+
+div.rotate-2 {
+  -o-transform: rotate(4deg);
+  -webkit-transform: rotate(4deg);
+  -moz-transform: rotate(4deg);
+  position: relative;
+  top: 5px;
+}
+
+.lazur-bg {
+  background-color: #23c6c8;
+  color: white;
+}
+
+.red-bg {
+  background-color: #ed5565;
+  color: #ffffff;
+}
+
+.yellow-bg {
+  background-color: #f8ac59;
+  color: #ffffff;
+}
+
+ul.notes li div {
+  text-decoration: none;
+  color: #f8f0e3;
+  display: block;
+  height: 250px;
+  width: 250px;
+  padding: 1em;
+  -moz-box-shadow: 5px 5px 7px #212121;
+  -webkit-box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
+  box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
+  -moz-transition: -moz-transform 0.15s linear;
+  -o-transition: -o-transform 0.15s linear;
+  -webkit-transition: -webkit-transform 0.15s linear;
+}
+
+/* CTA section */
+
+.connect-header {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  color: white;
+  font-size: 60px;
+  font-weight: 300;
+  padding: 5%;
+  margin-top: 190px;
+}
+
+.download-button-last {
+  text-align: center;
+  padding: 1%;
+}
+
+.download-button {
+  padding: 1%;
+  margin: 2%;
+}
+
+/* footer section */
+
+.footer-links {
+  text-align: center;
+  padding: 2%;
+  margin: 1%;
+}
+
+.footer-links a {
+  margin: 3%;
+}
+
+#footer p {
+  text-align: center;
+  color: #ffffff7f;
+  padding: 4%;
+}
+
+/* media q section */
+
+@media (max-width: 990px) {
+  #home-page {
+    text-align: center;
+    padding: 10% 2%;
+  }
+
+  .picture-holder {
+    padding-top: 70px;
+  }
+
+  .my-picture {
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+  }
+
+  .intro-text {
+    font-size: 3.5rem;
+    padding: 0px;
+  }
+
+  .square-containers {
+    margin-top: 0px;
+    text-align: center;
+  }
+  .first-square {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .first-square p {
+    width: 400px;
+    line-height: 2rem;
+    height: 300px;
+    font-size: 2vw;
+    padding-top: 2%;
+    text-align: center;
+  }
+  .second-square {
+    margin-top: 20px;
+  }
+  .second-square img {
+    border-style: none;
+    width: 300px;
+    height: 375px;
+    border-radius: 10%;
+  }
+  .third-square {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .third-square div {
+    width: 400px;
+    line-height: 1.5rem;
+    height: 300px;
+  }
+  .skills p {
+    font-size: 3vh;
+  }
+
+  .notes {
+    margin-left: 80px;
+    margin-top: 25px;
+  }
+
+  .about-header {
+    font-size: 40px;
+  }
+
+  .projects-header {
+    font-size: 40px;
+    padding-bottom: 40px;
+  }
+
+  .connect-header {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 970px) {
+  .first-square p {
+    font-size: large;
+    padding-top: 30px;
+  }
+}
