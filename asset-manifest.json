@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aa1c65c.css",
+    "main.js": "/static/js/main.cb34f8ba.js",
+    "static/js/787.3ba5e41c.chunk.js": "/static/js/787.3ba5e41c.chunk.js",
+    "static/media/profile.png": "/static/media/profile.bfd7c22f4114a414dd7b.png",
+    "static/media/laptop.jpg": "/static/media/laptop.8e4e65683dc0149fc984.jpg",
+    "static/media/simonsaysgame.png": "/static/media/simonsaysgame.73227ceb1b58db92e761.png",
+    "static/media/keeperapp.png": "/static/media/keeperapp.17ae2d7aa15ed48b4658.png",
+    "static/media/newslettersignup.png": "/static/media/newslettersignup.02b1945855e7c40996dd.png",
+    "index.html": "/index.html",
+    "main.3aa1c65c.css.map": "/static/css/main.3aa1c65c.css.map",
+    "main.cb34f8ba.js.map": "/static/js/main.cb34f8ba.js.map",
+    "787.3ba5e41c.chunk.js.map": "/static/js/787.3ba5e41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa1c65c.css",
+    "static/js/main.cb34f8ba.js"
+  ]
+}
