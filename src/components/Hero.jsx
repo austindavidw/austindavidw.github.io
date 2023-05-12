@@ -51,7 +51,7 @@ const Hero = () => {
 
               <a
                 className="btn btn-outline-light btn-lg"
-                href="#!"
+                href="#CTA"
                 role="button"
                 style={{ fontFamily: "Lato, sans-serif" }}
               >
