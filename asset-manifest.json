@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.3aa1c65c.css",
-    "main.js": "/static/js/main.be2ad66b.js",
+    "main.js": "/static/js/main.a5e5f966.js",
     "static/js/787.3ba5e41c.chunk.js": "/static/js/787.3ba5e41c.chunk.js",
     "static/media/profile.png": "/static/media/profile.bfd7c22f4114a414dd7b.png",
     "static/media/laptop.jpg": "/static/media/laptop.8e4e65683dc0149fc984.jpg",
-    "static/media/blogwebsite.png": "/static/media/blogwebsite.30834bc8c99f5594afbe.png",
+    "static/media/blogwebsite.png": "/static/media/blogwebsite.84376712c078785c76ce.png",
     "static/media/simonsaysgame.png": "/static/media/simonsaysgame.73227ceb1b58db92e761.png",
     "static/media/keeperapp.png": "/static/media/keeperapp.17ae2d7aa15ed48b4658.png",
     "static/media/newslettersignup.png": "/static/media/newslettersignup.02b1945855e7c40996dd.png",
     "index.html": "/index.html",
     "main.3aa1c65c.css.map": "/static/css/main.3aa1c65c.css.map",
-    "main.be2ad66b.js.map": "/static/js/main.be2ad66b.js.map",
+    "main.a5e5f966.js.map": "/static/js/main.a5e5f966.js.map",
     "787.3ba5e41c.chunk.js.map": "/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa1c65c.css",
-    "static/js/main.be2ad66b.js"
+    "static/js/main.a5e5f966.js"
   ]
 }
